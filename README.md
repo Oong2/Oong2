@@ -1,5 +1,6 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 <a href="https://www.instagram.com/huma_n__torch/" target="_blank"><img src="https://img.shields.io/badge/인스타그램-배경색?style=Instagram&logo=로고&logoColor=#E4405F"/></a>
 
 <!--
