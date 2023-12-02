@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oong2&theme=tokyonight)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/Oong2/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oong2&theme=nord_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oong2&theme=nord_dark)
 
