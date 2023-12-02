@@ -3,4 +3,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oong2&theme=nord_dark)
 
-[![KIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![KIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Oong2/github-readme-stats)
