@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/huma_n__torch/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=#E4405F&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.instagram.com/huma_n__torch/" target="_blank"><img src="https://img.shields.io/badge/인스타그램-배경색?style=Instagram&logo=로고&logoColor=#E4405F"/></a>
 
 <!--
 **Oong2/Oong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
