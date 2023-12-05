@@ -10,6 +10,35 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+         <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+     <!-- Development Tools -->
+    <p><strong>Development Tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+    </div>
+     <!-- Version Control -->
+    <p><strong>Version Control</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    </div>
+    <!-- Communication -->
+    <p><strong>Communication</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+    </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oong2&theme=tokyonight)](https://git.io/streak-stats)
 
