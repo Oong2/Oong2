@@ -1,5 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=어서오세요%20김기호의%20깃허브입니다%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:ehddns0528@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/huma_n__torch">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oong2&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oong2&theme=nord_dark)
