@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=김기호의%20to%20깃허브입니다%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=어서오세요%20김기호의%20깃허브입니다%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oong2&theme=tokyonight)](https://git.io/streak-stats)
 
