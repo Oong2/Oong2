@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=어서오세요%20김기호의%20깃허브입니다%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 
-## 📞 Contact 📞
+## 📞 연락 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:ehddns0528@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
-## 🔨 Once I've used 🔨
+## 🔨 사용하는 기술스택 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
